@@ -1,3 +1,5 @@
+# A copy of https://github.com/lgvalle/Material-Animations
+
 # UNMAINTAINED
 No maintainance is intended. 
 The content is still valid as a reference but it won't contain the latest new stuff
